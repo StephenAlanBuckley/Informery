@@ -1,5 +1,5 @@
-var account_functions_url = "/utilities/account_functions.php";
-var session_functions_url = "/utilities/session_functions.php";
+var account_functions_url = "http://stephenalanbuckley.com/utilities/account_functions.php";
+var session_functions_url = "http://stephenalanbuckley.com/utilities/session_functions.php";
 
 $.getJSON(session_functions_url + "?function=get_user_info", function(data) {
   console.log(data);

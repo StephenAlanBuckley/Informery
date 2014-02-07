@@ -4,9 +4,9 @@ session_start();
 global $css_paths, $js_paths, $page_title;
 
 if (!empty($js_paths)) {
-  $js_paths .= ",/js/account_menu.js";
+  $js_paths .= ",../js/account_menu.js";
 } else {
-  $js_paths = "/js/account_menu.js";
+  $js_paths = "../js/account_menu.js";
 }
 
 $styles_html = '';
