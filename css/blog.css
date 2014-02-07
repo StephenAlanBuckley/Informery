@@ -1,0 +1,18 @@
+.title h3 {
+  font-size: 250%;
+}
+
+.blog_footer .blog_published {
+  margin-right: 50%;
+  display: inline;
+}
+
+.blog_footer .blog_tags {
+  float:right;
+  display: inline;
+}
+
+.parenthetical_comment {
+  padding: 0px 0px;
+  text-decoration: none;
+}

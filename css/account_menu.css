@@ -1,0 +1,10 @@
+.account {
+  float: right;
+  display: inline;
+}
+
+.modal-body input {
+  display: block;
+  margin: 5px 10px;
+}
+

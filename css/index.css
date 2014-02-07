@@ -1,0 +1,20 @@
+.panel {
+  font-size: 250%;
+  margin-top: 20px;
+}
+
+/* This is for the center picture on the index page
+ * The original dimensions (at the moment) are:
+ * 84 x 80 
+ */
+#portrait {
+  width: 40%;
+}
+
+#right-panel {
+  margin-left: 10%;
+}
+
+#left-panel {
+  margin-right: 10%;
+}

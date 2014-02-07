@@ -1,0 +1,32 @@
+header {
+  height: 150px;
+}
+
+header h1 {
+  margin: 15px 0px 10px 0px;
+  font-size: 250%;
+  text-overflow: SAB;
+}
+
+header h2 {
+  font-size: 125%;
+  font-variant: Palatino Linotype;
+}
+
+.center {
+ float: none;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#logout_button, #username_button {
+  display: none;
+}
+
+.float_right {
+  float: right;
+}
+
+.float_left {
+  float: left;
+}
